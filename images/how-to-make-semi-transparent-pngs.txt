@@ -1,0 +1,8 @@
+Use ImageMagick (e.g., OS X or Linux)
+
+convert input.png -alpha set -channel A -evaluate set 50% output.png
+
+I did this on my OS X Mountain Lion Mac with ImageMagick installed via
+Mac Ports.  But I see that here at Gator, there seems to be a
+"convert" executable installed (when logged in via ssh), too.  It
+would probably work just as well.

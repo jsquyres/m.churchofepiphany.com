@@ -1,0 +1,6 @@
+/* Background image; cover the whole page */
+html {
+    background: url('/images/epiphany-statue.jpg') no-repeat center center;
+    background-size: cover;
+    height: 100%;
+}
