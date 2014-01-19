@@ -21,6 +21,7 @@
     height: 100%;
 }
 </style>
+<?php include("../include/google_analytics.inc"); ?>
 </head>
 <body>
 <div class="responsive-iframe-container">
