@@ -2,9 +2,10 @@
 "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
+<?php include('../include/head-start.php'); ?>
 <title>Church of the Epiphany</title>
 <link type="text/css" rel="stylesheet" href="http://m.churchofepiphany.com/css/master.css" />
-<?php 
+<?php
 print("<style>");
 include("../css/statue-background.css");
 print("</style>\n");

@@ -2,6 +2,7 @@
 "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
+<?php include('../include/head-start.php'); ?>
 <title>COE: Epiphany events</title>
 <style>
 .responsive-iframe-container {
@@ -11,8 +12,8 @@
     height: 0;
     overflow: auto;
 }
-.responsive-iframe-container iframe,  
-.vresponsive-iframe-container object, 
+.responsive-iframe-container iframe,
+.vresponsive-iframe-container object,
 .vresponsive-iframe-container embed {
     position: absolute;
     top: 0;
