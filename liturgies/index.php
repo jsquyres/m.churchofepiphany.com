@@ -22,7 +22,7 @@ include("../include/google_analytics.inc"); ?>
     </ul>
     <h2>Sundays</h2>
     <ul>
-    <li>9am (with ASL), 11:30am</li>
+        <li>9am (with ASL), 11:30am</li>
     </ul>
     <h2>Holidays and holy days</h2>
     <ul>
