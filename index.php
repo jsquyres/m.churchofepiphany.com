@@ -8,7 +8,7 @@
 <?php include('include/head-start.php'); ?>
 <title>Church of the Epiphany</title>
 <link type="text/css" rel="stylesheet" href="http://m.churchofepiphany.com/css/master.css" />
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" ></script>
+<script async src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" ></script>
 <style>
 <?php include("css/cross-background.css"); ?>
 </style>

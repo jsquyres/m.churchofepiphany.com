@@ -4,7 +4,7 @@
 <head>
 <?php include('../include/head-start.php'); ?>
 <title>Church of the Epiphany: Special announcement</title>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" ></script>
+<script async src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" ></script>
 <?php include("../include/google_analytics.inc"); ?>
 <script>
 // Once the page has fully loaded (i.e., we sent out Google Analytics
